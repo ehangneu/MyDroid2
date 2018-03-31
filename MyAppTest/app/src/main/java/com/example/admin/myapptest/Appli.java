@@ -7,5 +7,5 @@ import android.app.Application;
  */
 
 public class Appli extends Application{
-
+    int a = 1;
 }
